@@ -1,4 +1,4 @@
-# Math3076
+# MATH3076
 Assignment1: an algebra and object-oriented programming in python
 	- complex number: C
 	- Quaternions: H
